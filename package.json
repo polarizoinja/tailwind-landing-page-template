@@ -1,5 +1,5 @@
 {
-  "name": "simple-next",
+  "name": "c",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -30,5 +30,17 @@
   "overrides": {
     "@types/react": "19.0.1",
     "@types/react-dom": "19.0.1"
-  }
+  },
+  "description": "![Simple TailwindCSS template preview](https://github.com/cruip/tailwind-landing-page-template/assets/2683512/f9a98fab-a1bc-4fb5-8572-4de0b6bd932a)",
+  "main": "next.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cruip/tailwind-landing-page-template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cruip/tailwind-landing-page-template/issues"
+  },
+  "homepage": "https://github.com/cruip/tailwind-landing-page-template#readme"
 }
